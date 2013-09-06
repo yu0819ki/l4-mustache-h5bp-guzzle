@@ -1,7 +1,7 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"name": "yu0819ki/l4-mustache-h5bp-guzzle",
+	"description": "Prototype of the project made by yu0819ki",
+	"keywords": ["yu0819ki"],
 	"require": {
 		"laravel/framework": "4.0.*",
 		"guzzle/guzzle": "~3.7",
